@@ -21,8 +21,10 @@
 <br />
 
 - 🌱 I’m Currently Working In Domain: __Machine Learning & Artificial Intelligence__ :mechanical_arm:
-- 📫 How to reach me: **myringole@gmail.com**
-- ⚡👀 I’m interested in **Computer vision** 👀
+- 📫 How to reach me:
+- **myringole@gmail.com**
+- +91 8007078560
+- ⚡👀 I’m interested in **Computer vision proj** 👀
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
