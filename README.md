@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayur Ingole</h1>
-<h2 align="center">A Passionate AI/ML Geek</h2>
+<h2 align="center">A Passionate AI/ML Engineer</h2>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=trillionairemayur&label=Profile%20views&color=030303&style=flat" alt="trillionairemayur" /> </p> -->
 
