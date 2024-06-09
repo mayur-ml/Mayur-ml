@@ -39,8 +39,8 @@
 
 <div align="center">
   <a href="https://github.com/Mayur-ingole">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mayur-ingole&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mayur-ingole&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mayur-ml&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mayur-ml&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <h2 align="center"> “If you're not making someone else's life better, then you're wasting your time. Your life will become better by making other lives better.” - Will Smith </h2>
