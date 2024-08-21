@@ -43,7 +43,23 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mayur-ml&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mayur-ml&layout=compact&langs_count=7&theme=dark"/>
 </div>
+<h2 align="left"></h2>
+<div style="border: 5px solid #000; padding: 15px; font-weight: bold;">
+    <p>
+        Macha: A wise man once told me... there's only one rule in this world, a small question that drives all success. The more a man invests in that question, the more powerful that man will become.
+    </p>
+    <p>
+        Macha: Can you guess what that question is, Mr. Green?
+    </p>
+    <p>
+        Macha: <strong style="color: #FF4500;">What's in it for me?</strong>
+    </p>
+    <p style="text-align: right; font-style: italic; margin-top: 20px;">
+        - movie <em>Revolver</em> (2005)
+    </p>
+</div>
+<h2 align="left"></h2>
 
-<h2 align="center"> “If you're not making someone else's life better, then you're wasting your time. Your life will become better by making other lives better.” - Will Smith </h2>
+
 
 ![ironman_banner](https://user-images.githubusercontent.com/108168115/212155650-edd8b606-786e-4f28-a388-eebb0a79cfc1.jpg)
